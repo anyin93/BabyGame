@@ -8,4 +8,7 @@ public class Rank {
         this.name = name;
         this.score = score;
     }
+
+
+
 }
